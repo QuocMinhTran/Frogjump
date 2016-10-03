@@ -1,0 +1,6 @@
+C:\Users\Minh\OneDrive\study\Newton\Problem\FrogJump\FrogJump\bin\Debug\FrogJump.exe.config
+C:\Users\Minh\OneDrive\study\Newton\Problem\FrogJump\FrogJump\bin\Debug\FrogJump.exe
+C:\Users\Minh\OneDrive\study\Newton\Problem\FrogJump\FrogJump\bin\Debug\FrogJump.pdb
+C:\Users\Minh\OneDrive\study\Newton\Problem\FrogJump\FrogJump\obj\Debug\FrogJump.csprojResolveAssemblyReference.cache
+C:\Users\Minh\OneDrive\study\Newton\Problem\FrogJump\FrogJump\obj\Debug\FrogJump.exe
+C:\Users\Minh\OneDrive\study\Newton\Problem\FrogJump\FrogJump\obj\Debug\FrogJump.pdb
